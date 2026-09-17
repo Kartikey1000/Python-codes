@@ -12,7 +12,7 @@ def main():
         "September",
         "October",
         "November",
-        "December"
+        "December",
     ]
 
     while True:
